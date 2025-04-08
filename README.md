@@ -20,7 +20,7 @@ A console-based To-Do List manager with both interactive and CLI support using P
 | File              | Description                              |
 | ----------------- | ---------------------------------------- |
 | `main.py`         | Main application script                  |
-| `modules`         | Modules of To-Do-List                           |
+| `modules`         | Modules of To-Do-List                    |
 | `cli.py`          | Handles usage through argparse           |
 | `task_handler.py` | Handles all the functionalities of Tasks |
 | `menu.py`         | Menu of To-Do-List                       |
