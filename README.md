@@ -36,7 +36,7 @@ A console-based To-Do List manager with both interactive and CLI support using P
 pip install colorama
 
 # 2. Run the application
-python todo_list.py
+python main.py
 ```
 
 ---
