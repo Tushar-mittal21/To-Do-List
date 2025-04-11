@@ -62,5 +62,8 @@ Welcome to To-Do List Manager!
 6. Exit
 Enter your choice: 1
 ```
+## Video Explanation
+
+[![Watch Video](https://github.com/Tushar-mittal21/To-Do-List/blob/main/assets/Thumbnail_ToDoList_Video.png?raw=true)](https://drive.google.com/file/d/1Hep7FaPvW8BfWKTShy6nQ7YMLxQ7pxa_/view?usp=sharing)
 
 Made with ❤️ by Tushar Mittal!
