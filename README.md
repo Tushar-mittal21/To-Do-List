@@ -12,7 +12,7 @@ A console-based To-Do List manager with both interactive and CLI support using P
 - Delete tasks
 - Mark tasks as completed
 - Data persists across sessions via `tasks.txt`
-
+- Beautiful Console Color Schema using Coloroma
 ---
 
 ## 📁 Files Included
